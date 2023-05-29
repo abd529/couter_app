@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922793930380",
+    "project_id": "quiz-app-48f80",
+    "storage_bucket": "quiz-app-48f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922793930380:android:9a85ef30f9a0f685c8d5a9",
+        "android_client_info": {
+          "package_name": "com.example.couter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-MPK1XRZQibMtS855tgUGVKar0ecElI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
